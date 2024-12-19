@@ -1,0 +1,6 @@
+C:\Users\Пользователь\source\repos\CompanyCoreLib\CompanyCoreLib\bin\Debug\CompanyCoreLib.dll
+C:\Users\Пользователь\source\repos\CompanyCoreLib\CompanyCoreLib\bin\Debug\CompanyCoreLib.pdb
+C:\Users\Пользователь\source\repos\CompanyCoreLib\CompanyCoreLib\obj\Debug\CompanyCoreLib.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\CompanyCoreLib\CompanyCoreLib\obj\Debug\CompanyCoreLib.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\CompanyCoreLib\CompanyCoreLib\obj\Debug\CompanyCoreLib.dll
+C:\Users\Пользователь\source\repos\CompanyCoreLib\CompanyCoreLib\obj\Debug\CompanyCoreLib.pdb

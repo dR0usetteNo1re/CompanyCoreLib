@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\CompanyCoreLib\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Пользователь\source\repos\CompanyCoreLib\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Пользователь\source\repos\CompanyCoreLib\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Пользователь\source\repos\CompanyCoreLib\ConsoleApp1\bin\Debug\CompanyCoreLib.dll
+C:\Users\Пользователь\source\repos\CompanyCoreLib\ConsoleApp1\bin\Debug\CompanyCoreLib.pdb
+C:\Users\Пользователь\source\repos\CompanyCoreLib\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\CompanyCoreLib\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\CompanyCoreLib\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\CompanyCoreLib\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Пользователь\source\repos\CompanyCoreLib\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
